@@ -26,5 +26,8 @@
     <ClCompile Include="DrawFilledCircleTest.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="DrawPolygonTest.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
