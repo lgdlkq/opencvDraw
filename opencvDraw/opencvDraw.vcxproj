@@ -161,6 +161,7 @@
     <ClCompile Include="DrawFilledCircleTest.cpp" />
     <ClCompile Include="DrawLineTest.cpp" />
     <ClCompile Include="DrawPolygonTest.cpp" />
+    <ClCompile Include="MainTest.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
